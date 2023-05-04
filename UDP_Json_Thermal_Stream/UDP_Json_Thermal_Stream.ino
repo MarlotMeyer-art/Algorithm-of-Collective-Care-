@@ -20,7 +20,7 @@ static float tempValues[32 * 24];
 #include <WiFiUdp.h>
 
 
-const char * udpAddress = "192.168.22.114"; /*  "192.168.1.55";*/
+const char * udpAddress = "192.168.22.115"; /*  "192.168.1.55";*/
 
 const int udpPort = 7000;
 
